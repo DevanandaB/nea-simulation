@@ -1,0 +1,15 @@
+.controls {
+    width: 25%;
+    height: 100%;
+    background-color: #A7C7E7;
+    padding: 0;
+}
+
+.screen .reactor {
+    padding: 0;
+    margin: 0;
+    width: 500px;
+    height: 500px;
+    border-radius: 500px;
+    border: 15px solid black;
+}
